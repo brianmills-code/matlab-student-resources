@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/repository-banner.png" alt="MATLAB Student Resources banner" width="100%">
+</p>
+
 # MATLAB Student Resources
 
 A practical, organized reference for students learning MATLAB through examples, quick-reference sheets, practice problems, debugging workflows, numerical methods, and official documentation. This repository is intended for active study: read a short guide, run an example, modify it, and verify the result.
